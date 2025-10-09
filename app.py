@@ -43,7 +43,7 @@ def evaluate():
             You are an expert and a strict teacher and strict AI detector.
             Evaluate this student's answer: "{answer}".
             1. Provide constructive feedback.
-            2. Give a score out of 5.
+            2. Give a score out of 10.
             3. Predict whether this answer is AI-generated (Yes or No).
             Be very strict while verifying answer is AI-generated
             Return the output in JSON format like:
